@@ -33,7 +33,7 @@ During her turn, a player plays exactly one card from her hand, in one of three 
         Multiple build:	A player can create multiple builds, all with the same capture value, e.g., a build of 6 and 3, another of 5 and 4, and yet another of 8 and Ace.
         Increasing a build: A player can add a card to a single build owned by an opponent to increase the value of the build if the player also has the card in her hand with the value equal to the increased sum of the build, e.g., the opponent has a build of 6+3; the player adds 2 to the build since the player also has Jack in her hand (6 + 3 + 2 = 11). The player who added the card now becomes the owner of the build. But adding a card to a build cannot be done if the build is part of multiple builds. It cannot be done by a player to his own build. 
         
-        Capture: The player may play a card to capture one or more cards on the table:
+   Capture: The player may play a card to capture one or more cards on the table:
         
         Individual card: If the played card matches an individual card on the table, that card must be captured, e.g., if the player plays a 6, the player will capture any and all 6 cards on the table.
         
@@ -46,16 +46,18 @@ During her turn, a player plays exactly one card from her hand, in one of three 
         The player has the option to (but is not required to) capture one or more complete builds (single or multiple) whose value is equal to that of the played card. 
     The played card and the captured card(s) are added to the player's pile.
         
-        Trail: The player plays a card that does not match any individual loose card, and therefore, cannot capture any individual loose card. The played card is left on the table, to be captured or incorporated into a build later. Note that if the played card matches a set of cards or a build, since capturing them is not mandatory, the player can choose to trail rather than capture with the card.
+   Trail: The player plays a card that does not match any individual loose card, and therefore, cannot capture any individual loose card. The played card is left on the table, to be captured or incorporated into a build later. Note that if the played card matches a set of cards or a build, since capturing them is not mandatory, the player can choose to trail rather than capture with the card.
         
     Trailing option is not available to the owner of a build - since that player can play the card matching the build to capture it or work on a multiple build. 
 
 
-Round Ending
+Round Ending:
+
 The round ends when the players have played all the cards and the deck is empty. Any cards that remain on the table are taken by the last player that made a capture.
 The piles of both the players are printed at the end of the round.
 
-Score
+Score:
+
 When a round ends, the points earned by each player are calculated based on the cards in each player's pile:
 
     The player with the most cards in the pile gets 3 points. In the event of a tie, neither player gets points.
