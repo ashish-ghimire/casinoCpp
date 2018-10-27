@@ -1,4 +1,4 @@
-Casino is a card game played by 2 players.
+"Casino is a card game played by 2 players.
 
 The Objective: 
 
@@ -74,4 +74,6 @@ Winning the tournament
 If either player's score reaches or crosses 21 points by the end of a round, the tournament ends. Otherwise, a new round is started. When the tournament ends, the player with the greater score wins the tournament. If both players go over 21 points in the same round and end up with the same tournament score, the tournament results in a tie.
 
 First Player
-On the first round of the tournament, a coin is flipped and the human player is asked to call the toss to determine the first player. On subsequent rounds, the player who captured last on the previous round plays first. 
+On the first round of the tournament, a coin is flipped and the human player is asked to call the toss to determine the first player. On subsequent rounds, the player who captured last on the previous round plays first. "
+
+- Game Description taken from here: https://pages.ramapo.edu/~amruth/teaching/opl/casino/problem.html
