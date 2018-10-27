@@ -31,6 +31,7 @@ During her turn, a player plays exactly one card from her hand, in one of three 
         As the player who most recently added a card to the build, the player becomes its owner. 
         
         Multiple build:	A player can create multiple builds, all with the same capture value, e.g., a build of 6 and 3, another of 5 and 4, and yet another of 8 and Ace.
+        
         Increasing a build: A player can add a card to a single build owned by an opponent to increase the value of the build if the player also has the card in her hand with the value equal to the increased sum of the build, e.g., the opponent has a build of 6+3; the player adds 2 to the build since the player also has Jack in her hand (6 + 3 + 2 = 11). The player who added the card now becomes the owner of the build. But adding a card to a build cannot be done if the build is part of multiple builds. It cannot be done by a player to his own build. 
         
    Capture: The player may play a card to capture one or more cards on the table:
